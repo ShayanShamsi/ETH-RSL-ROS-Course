@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/shayan/Documents/ros/workspaces/smb_ws/devel/.private/teleop_twist_keyboard/setup.sh

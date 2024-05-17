@@ -1,0 +1,5 @@
+_workspace_packages=( ${(Q)"${(z)$(<<\EO:_workspace_packages
+'smb_control' 'smb_description' 'smb_gazebo' 'teleop_twist_keyboard'
+EO:_workspace_packages
+)}"} )
+_workspace_cache_file_path='/home/shayan/Documents/ros/workspaces/smb_ws/.catkin_tools/cache'
